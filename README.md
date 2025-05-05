@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Hi there! I'm Wojtek 👋
 
-<!--
-**wojteksuj/wojteksuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT student** at **PJATK** (Academy of Information Technology) in **Warsaw**, currently in my **4th semester**. I’m passionate about technology and software development, and I specialize in **Java development** while exploring a variety of programming languages and frameworks. 🚀
 
-Here are some ideas to get you started:
+### 🔧 What I’m working on:
+- **Java development** with **Spring Boot** for building scalable web applications and microservices.
+- Exploring **backend development**, including **REST APIs**, **Databases**, and **Security**.
+- Working with **Java**, **C#**, and **SQL** for diverse projects.
+- **Machine learning** and **AI** techniques (such as **k-NN classifiers**, **perceptrons**, and more).
+- Web development with **HTML**, **CSS**, and **Bootstrap** to create interactive frontend interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently looking for:
+- A **Java Developer internship** to apply my skills in real-world projects and gain hands-on experience in **Spring Boot** and **backend development**.
+
+### 🚀 My goals:
+- Build robust, scalable applications using **Spring Boot** and explore new tools and frameworks.
+- Strengthen my skills in **software architecture** and **database management**.
+- Gain practical experience in **machine learning** and **AI** applications.
+
+### 📫 How to reach me:
+- 📧 Email: wojciechsuj@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/wojciech-sujczy%C5%84ski-669b7b332/
+
+Feel free to check out my repositories and projects! 🤝
