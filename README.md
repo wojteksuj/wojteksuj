@@ -9,9 +9,6 @@ I'm an **IT student** at **PJATK** (Academy of Information Technology) in **Wars
 - **Machine learning** and **AI** techniques (such as **k-NN classifiers**, **perceptrons**, and more).
 - Web development with **HTML**, **CSS**, and **Bootstrap** to create interactive frontend interfaces.
 
-### Currently looking for:
-- A **Java Developer internship** to apply my skills in real-world projects and gain hands-on experience in **Spring Boot** and **backend development**.
-
 ###  My goals:
 - Build robust, scalable applications using **Spring Boot** and explore new tools and frameworks.
 - Strengthen my skills in **software architecture** and **database management**.
