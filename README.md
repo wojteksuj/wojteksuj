@@ -5,7 +5,7 @@ I'm an **IT student** at **PJATK** (Academy of Information Technology) in **Wars
 ### What I’m working on:
 - **Java development** with **Spring Boot** for building scalable web applications and microservices.
 - Exploring **backend development**, including **REST APIs**, **Databases**, and **Security**.
-- Working with **Java**, **C#**, and **SQL** for diverse projects.
+- Working with **Java**, **Python**, and **SQL** for diverse projects.
 - **Machine learning** and **AI** techniques (such as **k-NN classifiers**, **perceptrons**, and more).
 - Web development with **HTML**, **CSS**, and **Bootstrap** to create interactive frontend interfaces.
 
