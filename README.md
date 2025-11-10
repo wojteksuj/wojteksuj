@@ -1,6 +1,6 @@
 # Hi there! I'm Wojtek 
 
-I'm an **IT student** at **PJATK** (Academy of Information Technology) in **Warsaw**, currently in my **4th semester**. I’m passionate about technology and software development, and I specialize in **Java development** while exploring a variety of programming languages and frameworks. 
+I'm an **IT student** at **PJATK** (Academy of Information Technology) in **Warsaw**, currently in my **5th semester**. I’m passionate about technology and software development, and I specialize in **Java development** while exploring a variety of programming languages and frameworks. 
 
 ### What I’m working on:
 - **Java development** with **Spring Boot** for building scalable web applications and microservices.
